@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3JD6YUNSL9.com.loyahdev.HumaneAppCompanion.watchkitapp"],
+        "components": [
+          {
+            "/": "/flicktype/*",
+            "comment": "Matches any URL whose path starts with /flicktype/"
+          }
+        ]
+      }
+    ]
+  }
+}
